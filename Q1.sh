@@ -168,8 +168,3 @@ case $choice_option in
 esac
 
 
-echo
-cat <<EOF   
-Changed saved and address book closed. Bye!
-EOF
-echo
