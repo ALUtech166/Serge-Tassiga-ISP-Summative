@@ -1,6 +1,4 @@
 # Serge-Tassiga-ISP-Summative
-
-Final Summative ISP
 =============
 
 Authors: Mamane Bello, Liplan Lekipsing, Cédric Murairi, and Serge Anan <br>
